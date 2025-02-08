@@ -12,27 +12,26 @@ This interactive dashboard provides an analytical view of sexual assault and rap
 
 ## 📌 Key Features: 
 ### Total Reported Cases Trend (1999-2020):
-![alt text](image_1_u.png)
+<img src="images/image_1_u.png">
  This visualization provides a comprehensive view of the total number of cases reported each year, allowing users to identify trends, fluctuations, and any anomalies over time. By analyzing these patterns, policymakers and researchers can assess the effectiveness of laws and enforcement efforts.
 
 ### Yearly Trends by Offender Category (1999-2013): 
-<img src="image_2.png" width="830" height="270" >
+<img src="images/image_2_u.png">
 This area chart breaks down the reported cases by different offender categories, such as known individuals, strangers, family members, and others. Understanding offender distribution helps in targeting awareness campaigns and preventive measures in vulnerable sections of society.
 
 ### State-wise Total Cases (1999-2020): 
-<img src="image_3.png" width="830" height="270" >
+<img src="images/image_3_u.png">
 This bar chart provides a comparative analysis of sexual assault cases across various states and union territories. It helps identify regions with consistently high or low case numbers, aiding in the allocation of law enforcement resources and policy interventions.
 
 ### Offender Category Distribution (1999-2013):
-![alt text](Pie.png)
+<img src="images/image_4_u.png">
  A pie chart visually represents the percentage distribution of offenders across different categories. This aids in understanding who the primary perpetrators are and assists authorities in formulating targeted policies to address the root causes of sexual violence.
 
 ### Correlation Heatmap (1999-2013): 
-<img src="image_5.png" width="830" height="230" >
+<img src="images/image_5_u.png">
 A 3D heatmap showcases relationships between various offender categories, helping uncover hidden correlations. This visualization is crucial for criminologists and policymakers to identify common patterns and possible connections between offender demographics and crime trends.
 
-### Geospatial Distribution Map (1999-2020):
-<img src="image_7.png" width="830" height="250" >
+<img src="images/image_6_u.png">
 This choropleth map highlights the geographical distribution of reported sexual assault cases across India. By pinpointing high-density areas, authorities can deploy resources effectively, focusing on regions that require immediate intervention and awareness programs.
 
 
